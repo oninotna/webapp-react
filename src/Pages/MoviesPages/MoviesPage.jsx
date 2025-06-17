@@ -3,5 +3,5 @@ export default function MoviesPage () {
         <div className="container">
             <h1>Movies</h1>
         </div>
-    )
-}
+    );
+};
